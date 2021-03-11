@@ -6,10 +6,10 @@
 <h1 align="center">🏆 to.do </h1>
 <p align="center">Application made on the first challenge of Ignite module on the React track</p>
 
-GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/CassianoThurow/ignite-challenge01
-GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/CassianoThurow/ignite-challenge01
-GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/CassianoThurow/ignite-challenge01
-GitHub license:	GitHub license badge	https://img.shields.io/github/license/CassianoThurow/ignite-challenge01
+<img src="https://img.shields.io/github/issues/CassianoThurow/ignite-challenge01" align="center"  />
+<img src="https://img.shields.io/github/forks/CassianoThurow/ignite-challenge01" align="center"  />
+<img src="https://img.shields.io/github/stars/CassianoThurow/ignite-challenge01" align="center"  />
+<img src="https://img.shields.io/github/license/CassianoThurow/ignite-challenge01" align="center"  />
 
 ## 💡 What is it??
 
